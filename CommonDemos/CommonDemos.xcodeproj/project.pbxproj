@@ -7,29 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FCB1D3B71F42E6A2009E13F2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FCB1D3B61F42E6A2009E13F2 /* main.m */; };
-		FCB1D3BA1F42E6A2009E13F2 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FCB1D3B91F42E6A2009E13F2 /* AppDelegate.m */; };
-		FCB1D3BD1F42E6A2009E13F2 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FCB1D3BC1F42E6A2009E13F2 /* ViewController.m */; };
-		FCB1D3C01F42E6A2009E13F2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FCB1D3BE1F42E6A2009E13F2 /* Main.storyboard */; };
-		FCB1D3C21F42E6A2009E13F2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FCB1D3C11F42E6A2009E13F2 /* Assets.xcassets */; };
-		FCB1D3C51F42E6A2009E13F2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FCB1D3C31F42E6A2009E13F2 /* LaunchScreen.storyboard */; };
+		FCB1D3DA1F42E7B5009E13F2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FCB1D3D91F42E7B5009E13F2 /* main.m */; };
+		FCB1D3DD1F42E7B5009E13F2 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FCB1D3DC1F42E7B5009E13F2 /* AppDelegate.m */; };
+		FCB1D3E01F42E7B5009E13F2 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FCB1D3DF1F42E7B5009E13F2 /* ViewController.m */; };
+		FCB1D3E31F42E7B5009E13F2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FCB1D3E11F42E7B5009E13F2 /* Main.storyboard */; };
+		FCB1D3E51F42E7B5009E13F2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FCB1D3E41F42E7B5009E13F2 /* Assets.xcassets */; };
+		FCB1D3E81F42E7B5009E13F2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FCB1D3E61F42E7B5009E13F2 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		FCB1D3B21F42E6A2009E13F2 /* KnowBlock.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KnowBlock.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		FCB1D3B61F42E6A2009E13F2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		FCB1D3B81F42E6A2009E13F2 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		FCB1D3B91F42E6A2009E13F2 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		FCB1D3BB1F42E6A2009E13F2 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		FCB1D3BC1F42E6A2009E13F2 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		FCB1D3BF1F42E6A2009E13F2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		FCB1D3C11F42E6A2009E13F2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		FCB1D3C41F42E6A2009E13F2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		FCB1D3C61F42E6A2009E13F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FCB1D3D51F42E7B5009E13F2 /* CommonDemos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CommonDemos.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FCB1D3D91F42E7B5009E13F2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		FCB1D3DB1F42E7B5009E13F2 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		FCB1D3DC1F42E7B5009E13F2 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		FCB1D3DE1F42E7B5009E13F2 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		FCB1D3DF1F42E7B5009E13F2 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		FCB1D3E21F42E7B5009E13F2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FCB1D3E41F42E7B5009E13F2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FCB1D3E71F42E7B5009E13F2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		FCB1D3E91F42E7B5009E13F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		FCB1D3AF1F42E6A2009E13F2 /* Frameworks */ = {
+		FCB1D3D21F42E7B5009E13F2 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,42 +39,42 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		FCB1D3A91F42E6A2009E13F2 = {
+		FCB1D3CC1F42E7B5009E13F2 = {
 			isa = PBXGroup;
 			children = (
-				FCB1D3B41F42E6A2009E13F2 /* KnowBlock */,
-				FCB1D3B31F42E6A2009E13F2 /* Products */,
+				FCB1D3D71F42E7B5009E13F2 /* CommonDemos */,
+				FCB1D3D61F42E7B5009E13F2 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		FCB1D3B31F42E6A2009E13F2 /* Products */ = {
+		FCB1D3D61F42E7B5009E13F2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FCB1D3B21F42E6A2009E13F2 /* KnowBlock.app */,
+				FCB1D3D51F42E7B5009E13F2 /* CommonDemos.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		FCB1D3B41F42E6A2009E13F2 /* KnowBlock */ = {
+		FCB1D3D71F42E7B5009E13F2 /* CommonDemos */ = {
 			isa = PBXGroup;
 			children = (
-				FCB1D3B81F42E6A2009E13F2 /* AppDelegate.h */,
-				FCB1D3B91F42E6A2009E13F2 /* AppDelegate.m */,
-				FCB1D3BB1F42E6A2009E13F2 /* ViewController.h */,
-				FCB1D3BC1F42E6A2009E13F2 /* ViewController.m */,
-				FCB1D3BE1F42E6A2009E13F2 /* Main.storyboard */,
-				FCB1D3C11F42E6A2009E13F2 /* Assets.xcassets */,
-				FCB1D3C31F42E6A2009E13F2 /* LaunchScreen.storyboard */,
-				FCB1D3C61F42E6A2009E13F2 /* Info.plist */,
-				FCB1D3B51F42E6A2009E13F2 /* Supporting Files */,
+				FCB1D3DB1F42E7B5009E13F2 /* AppDelegate.h */,
+				FCB1D3DC1F42E7B5009E13F2 /* AppDelegate.m */,
+				FCB1D3DE1F42E7B5009E13F2 /* ViewController.h */,
+				FCB1D3DF1F42E7B5009E13F2 /* ViewController.m */,
+				FCB1D3E11F42E7B5009E13F2 /* Main.storyboard */,
+				FCB1D3E41F42E7B5009E13F2 /* Assets.xcassets */,
+				FCB1D3E61F42E7B5009E13F2 /* LaunchScreen.storyboard */,
+				FCB1D3E91F42E7B5009E13F2 /* Info.plist */,
+				FCB1D3D81F42E7B5009E13F2 /* Supporting Files */,
 			);
-			path = KnowBlock;
+			path = CommonDemos;
 			sourceTree = "<group>";
 		};
-		FCB1D3B51F42E6A2009E13F2 /* Supporting Files */ = {
+		FCB1D3D81F42E7B5009E13F2 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				FCB1D3B61F42E6A2009E13F2 /* main.m */,
+				FCB1D3D91F42E7B5009E13F2 /* main.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -82,40 +82,40 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		FCB1D3B11F42E6A2009E13F2 /* KnowBlock */ = {
+		FCB1D3D41F42E7B5009E13F2 /* CommonDemos */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FCB1D3C91F42E6A2009E13F2 /* Build configuration list for PBXNativeTarget "KnowBlock" */;
+			buildConfigurationList = FCB1D3EC1F42E7B5009E13F2 /* Build configuration list for PBXNativeTarget "CommonDemos" */;
 			buildPhases = (
-				FCB1D3AE1F42E6A2009E13F2 /* Sources */,
-				FCB1D3AF1F42E6A2009E13F2 /* Frameworks */,
-				FCB1D3B01F42E6A2009E13F2 /* Resources */,
+				FCB1D3D11F42E7B5009E13F2 /* Sources */,
+				FCB1D3D21F42E7B5009E13F2 /* Frameworks */,
+				FCB1D3D31F42E7B5009E13F2 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = KnowBlock;
-			productName = KnowBlock;
-			productReference = FCB1D3B21F42E6A2009E13F2 /* KnowBlock.app */;
+			name = CommonDemos;
+			productName = CommonDemos;
+			productReference = FCB1D3D51F42E7B5009E13F2 /* CommonDemos.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		FCB1D3AA1F42E6A2009E13F2 /* Project object */ = {
+		FCB1D3CD1F42E7B5009E13F2 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0830;
 				ORGANIZATIONNAME = CoderHann;
 				TargetAttributes = {
-					FCB1D3B11F42E6A2009E13F2 = {
+					FCB1D3D41F42E7B5009E13F2 = {
 						CreatedOnToolsVersion = 8.3.2;
 						DevelopmentTeam = ZNES8UYBMU;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = FCB1D3AD1F42E6A2009E13F2 /* Build configuration list for PBXProject "KnowBlock" */;
+			buildConfigurationList = FCB1D3D01F42E7B5009E13F2 /* Build configuration list for PBXProject "CommonDemos" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -123,55 +123,55 @@
 				en,
 				Base,
 			);
-			mainGroup = FCB1D3A91F42E6A2009E13F2;
-			productRefGroup = FCB1D3B31F42E6A2009E13F2 /* Products */;
+			mainGroup = FCB1D3CC1F42E7B5009E13F2;
+			productRefGroup = FCB1D3D61F42E7B5009E13F2 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				FCB1D3B11F42E6A2009E13F2 /* KnowBlock */,
+				FCB1D3D41F42E7B5009E13F2 /* CommonDemos */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		FCB1D3B01F42E6A2009E13F2 /* Resources */ = {
+		FCB1D3D31F42E7B5009E13F2 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FCB1D3C51F42E6A2009E13F2 /* LaunchScreen.storyboard in Resources */,
-				FCB1D3C21F42E6A2009E13F2 /* Assets.xcassets in Resources */,
-				FCB1D3C01F42E6A2009E13F2 /* Main.storyboard in Resources */,
+				FCB1D3E81F42E7B5009E13F2 /* LaunchScreen.storyboard in Resources */,
+				FCB1D3E51F42E7B5009E13F2 /* Assets.xcassets in Resources */,
+				FCB1D3E31F42E7B5009E13F2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		FCB1D3AE1F42E6A2009E13F2 /* Sources */ = {
+		FCB1D3D11F42E7B5009E13F2 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FCB1D3BD1F42E6A2009E13F2 /* ViewController.m in Sources */,
-				FCB1D3BA1F42E6A2009E13F2 /* AppDelegate.m in Sources */,
-				FCB1D3B71F42E6A2009E13F2 /* main.m in Sources */,
+				FCB1D3E01F42E7B5009E13F2 /* ViewController.m in Sources */,
+				FCB1D3DD1F42E7B5009E13F2 /* AppDelegate.m in Sources */,
+				FCB1D3DA1F42E7B5009E13F2 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		FCB1D3BE1F42E6A2009E13F2 /* Main.storyboard */ = {
+		FCB1D3E11F42E7B5009E13F2 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				FCB1D3BF1F42E6A2009E13F2 /* Base */,
+				FCB1D3E21F42E7B5009E13F2 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		FCB1D3C31F42E6A2009E13F2 /* LaunchScreen.storyboard */ = {
+		FCB1D3E61F42E7B5009E13F2 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				FCB1D3C41F42E6A2009E13F2 /* Base */,
+				FCB1D3E71F42E7B5009E13F2 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -179,7 +179,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		FCB1D3C71F42E6A2009E13F2 /* Debug */ = {
+		FCB1D3EA1F42E7B5009E13F2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -227,7 +227,7 @@
 			};
 			name = Debug;
 		};
-		FCB1D3C81F42E6A2009E13F2 /* Release */ = {
+		FCB1D3EB1F42E7B5009E13F2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -269,26 +269,26 @@
 			};
 			name = Release;
 		};
-		FCB1D3CA1F42E6A2009E13F2 /* Debug */ = {
+		FCB1D3ED1F42E7B5009E13F2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = ZNES8UYBMU;
-				INFOPLIST_FILE = KnowBlock/Info.plist;
+				INFOPLIST_FILE = CommonDemos/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.coderHann.app.KnowBlock;
+				PRODUCT_BUNDLE_IDENTIFIER = com.coderHann.app.CommonDemos;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		FCB1D3CB1F42E6A2009E13F2 /* Release */ = {
+		FCB1D3EE1F42E7B5009E13F2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = ZNES8UYBMU;
-				INFOPLIST_FILE = KnowBlock/Info.plist;
+				INFOPLIST_FILE = CommonDemos/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.coderHann.app.KnowBlock;
+				PRODUCT_BUNDLE_IDENTIFIER = com.coderHann.app.CommonDemos;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -296,24 +296,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FCB1D3AD1F42E6A2009E13F2 /* Build configuration list for PBXProject "KnowBlock" */ = {
+		FCB1D3D01F42E7B5009E13F2 /* Build configuration list for PBXProject "CommonDemos" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FCB1D3C71F42E6A2009E13F2 /* Debug */,
-				FCB1D3C81F42E6A2009E13F2 /* Release */,
+				FCB1D3EA1F42E7B5009E13F2 /* Debug */,
+				FCB1D3EB1F42E7B5009E13F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FCB1D3C91F42E6A2009E13F2 /* Build configuration list for PBXNativeTarget "KnowBlock" */ = {
+		FCB1D3EC1F42E7B5009E13F2 /* Build configuration list for PBXNativeTarget "CommonDemos" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FCB1D3CA1F42E6A2009E13F2 /* Debug */,
-				FCB1D3CB1F42E6A2009E13F2 /* Release */,
+				FCB1D3ED1F42E7B5009E13F2 /* Debug */,
+				FCB1D3EE1F42E7B5009E13F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = FCB1D3AA1F42E6A2009E13F2 /* Project object */;
+	rootObject = FCB1D3CD1F42E7B5009E13F2 /* Project object */;
 }
