@@ -312,6 +312,7 @@
 				FCB1D44F1F42EA76009E13F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
